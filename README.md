@@ -47,7 +47,8 @@ for i in range(n):
 ```
 
 ## Output:
-![lu decomposition](https://user-images.githubusercontent.com/121418418/214919787-34735bac-d1d5-4bd0-8010-25ddf8412443.png)
+
+![Screenshot 2024-11-23 144347](https://github.com/user-attachments/assets/d9f0231b-d22c-4ae8-83f7-bcbad2636bde)
 
 
 
